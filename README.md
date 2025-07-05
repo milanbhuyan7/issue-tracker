@@ -284,10 +284,5 @@ Comment out the config.json loading in the code to fall back to environment vari
 
 ### Customizing Mock Data
 
-Edit the `mockData` section in `config.json` to:
-- Add new users, issues, or analytics data
-- Modify existing data structures
-- Change API response formats
-- Simulate different scenarios
 
 The mock data persists to localStorage, so changes are maintained across sessions.
