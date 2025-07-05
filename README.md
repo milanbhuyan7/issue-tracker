@@ -3,6 +3,8 @@
 A full-stack web application for tracking issues and generating insights, built with React.js frontend, Django backend, and PostgreSQL database. Features a comprehensive JSON configuration system that allows switching between live API and mock data modes.
 
 ## 🚀 Features
+Frontend check URL :-https://kzmp5v2obguxhp91xuft.lite.vusercontent.net/login
+got throught i fixed 
 
 ### Core Functionality
 - **Authentication**: Email/password + Google OAuth integration
